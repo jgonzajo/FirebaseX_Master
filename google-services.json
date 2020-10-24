@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1083061622885",
+    "firebase_url": "https://prod-app-entel-tde-pe.firebaseio.com",
+    "project_id": "prod-app-entel-tde-pe",
+    "storage_bucket": "prod-app-entel-tde-pe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083061622885:android:0ff7dbe527c7435c300e8c",
+        "android_client_info": {
+          "package_name": "com.entel.movil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083061622885-8lhlg204t8ahhqsbuke7pmcnp5gc1qgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvykpX7sEM2JKOZS2u02Bg-dCrT7TBf2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083061622885-8lhlg204t8ahhqsbuke7pmcnp5gc1qgp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083061622885-quh8i31nt1930b2i5jt8ipdh04flu492.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.outsystemsenterprise.entel.PEMiEntel",
+                "app_store_id": "925872656"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083061622885:android:15a2c6c799af9863",
+        "android_client_info": {
+          "package_name": "com.outsystemsenterprise.entel.PEMiEntel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083061622885-8lhlg204t8ahhqsbuke7pmcnp5gc1qgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvykpX7sEM2JKOZS2u02Bg-dCrT7TBf2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083061622885-8lhlg204t8ahhqsbuke7pmcnp5gc1qgp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083061622885-quh8i31nt1930b2i5jt8ipdh04flu492.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.outsystemsenterprise.entel.PEMiEntel",
+                "app_store_id": "925872656"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
